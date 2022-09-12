@@ -3,8 +3,12 @@ body {
   font-family: "Indie Flower", cursive;
   font-size: 20px;
   line-height: 2;
-  max-width: 1100px;
+  max-width: 1040px;
   margin: 0 auto;
+}
+
+a {
+  color: #FF617F;
 }
 
 .App-header {
